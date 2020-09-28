@@ -1,3 +1,7 @@
+## Frontend of Face recogntion app
+used react js clarify api try it out on https://face-recognition-app-as21.herokuapp.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
